@@ -3,7 +3,7 @@
 *
 * File: users.js
 *
-* Description: The purpose of this file is to set up geocoding functions.
+* Description: functionalities related to user registration, login/logout.
 *
 **************************************************************/
 var express = require('express');
