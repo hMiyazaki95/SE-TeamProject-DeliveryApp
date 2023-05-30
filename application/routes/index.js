@@ -1,5 +1,5 @@
 /**************************************************************
-* Author: Mario Leyva Moreno and Hajime Miyazaki
+* Author: 
 *
 * File: index.js
 *
