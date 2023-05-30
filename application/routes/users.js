@@ -1,5 +1,5 @@
 /**************************************************************
-* Author: Hajime Miyazaki and Mario Leyva Moreno
+* Author: 
 *
 * File: users.js
 *
