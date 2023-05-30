@@ -1,5 +1,5 @@
 /**************************************************************
-* Author: Mario Leyva Moreno
+* Author: 
 *
 * File: posts.js
 *
