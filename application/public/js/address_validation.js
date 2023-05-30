@@ -1,5 +1,5 @@
 /**************************************************************
-* Author: Mario Leyva Moreno
+* Author: 
 *
 * File: address_validation.js
 * Description: The purpose of this file is to validate input addresses by performing geocoding using google
