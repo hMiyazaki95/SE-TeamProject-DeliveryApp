@@ -1,5 +1,5 @@
 /**************************************************************
-* Author: Mario Leyva Moreno
+* Author: 
 *
 * File: password_validation.js
 * Description: The purpose of this file is to set up server-side validation for password
